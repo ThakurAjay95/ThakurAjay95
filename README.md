@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Ajay 👋
 
-<!--
-**ThakurAjay95/ThakurAjay95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Flutter Developer with 8.5+ years of mobile development experience
+Specializing in scalable cross-platform apps, clean architecture & automation
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+
+* Flutter & Dart
+* Android (Kotlin)
+* iOS (Swift - basics)
+* BLoC / MVVM / Clean Architecture
+* REST APIs & Firebase
+* CI/CD & Mobile Automation Testing
+
+---
+
+## 🧪 What I Focus On
+
+* Building production-grade Flutter applications
+* Designing scalable and maintainable architectures
+* Improving app quality through automation and testing
+
+---
+
+## 📂 Featured Projects
+
+🚧 Coming soon — actively building and updating
+
+---
+
+## 📫 Connect With Me
+
+* LinkedIn:https://www.linkedin.com/in/ajay-thakur-495ba4166/
